@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   
+}
+
+.row input{
+ padding: 10px 36px;
+ margin-bottom: 10px;
+ border-radius: 6px;
+ border: 2px solid black;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-size: 16px;
+}
+.btn{
+    padding: 20px;
+    margin: 4px;
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: #27374D;
+    color: white;
+}
+
+.btn-grey{
+    background-color:#61677A ;
+}
+
+.btn-orange{
+    background-color: #F99417;
+}
+
+.btn-pad{
+    padding: 20px 22px;
+}
+
+.btn-pad-1{
+    padding: 20px 21px;
+}
+
+.btn-pad-2{
+    padding: 20px 22px;
+}
